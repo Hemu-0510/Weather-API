@@ -49,18 +49,17 @@ Weather Result
 The AI identifies the city from the user's question and calls the `get_weather()` Python function. The function retrieves the current weather data from the Open-Meteo API and displays it in the application.
 
 
-
 ```
 
+```
 ## Output
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9a500f0c-0424-4069-8d43-56dd870d0bb8" />
+The application provides real-time weather information through a simple conversational interface.
 
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/556f89c1-a71b-4d34-9901-de89e195d5b9" />
 
 ```
-
-
+```
 ## Conclusion
 
 Weather AI Assistant demonstrates how AI, Python functions, and external APIs can work together to create a practical real-time application. The project provides hands-on experience in AI integration, function calling, API communication, and Streamlit development.
