@@ -54,9 +54,8 @@ The AI identifies the city from the user's question and calls the `get_weather()
 
 ## Output
 
-The application provides real-time weather information through a simple conversational interface.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9a500f0c-0424-4069-8d43-56dd870d0bb8" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/481fa8da-dd8b-4711-bb8e-e5d4e8d241cc" />
 
 
 ```
