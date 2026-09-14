@@ -59,6 +59,7 @@ The application provides real-time weather information through a simple conversa
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/481fa8da-dd8b-4711-bb8e-e5d4e8d241cc" />
 
 
+```
 
 
 ## Conclusion
